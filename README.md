@@ -1,6 +1,6 @@
 # Semana 1 - Flutter
 
-Estudiante: Virginia Yara  
+Estudiante: Virginia Leon Yara  
 Materia: Multimedia para Móviles  
 
 ## Proyectos incluidos
